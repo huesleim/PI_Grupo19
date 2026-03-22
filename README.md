@@ -37,21 +37,21 @@ Analisar os principais fatores ambientais, urbanos e econômicos que influenciam
 - Construir um modelo preditivo para estimar o AQI
 - Identificar as variáveis mais relevantes na previsão da qualidade do ar
 
-**Motivação:** 
+# Motivação
 Compreender essas relações é fundamental para:
 - Apoiar políticas públicas mais eficientes;
 - Direcionar investimentos ambientais de forma estratégica;
 - Reduzir impactos à saúde da população;
 - Promover desenvolvimento urbano sustentável.
 
-**Justificativa:**
+# Justificativa
 A utilização de técnicas de ciência de dados permite:
 - Identificar padrões ocultos nos dados;
 - Quantificar o impacto de cada variável;
 - Criar modelos preditivos;
 - Transformar dados em decisões práticas.
 
-**Informações sobre a Base de Dados**
+# Informações sobre a Base de Dados
 
 A base de dados envolvida possui informações do qual relaciona a qualidade do ar e o desmatamento de dez países e 50 cidades, sendo cinco cidades para cada país. Os dados trazem valores quantificados sobre:
 
@@ -65,7 +65,7 @@ A base de dados envolvida possui informações do qual relaciona a qualidade do 
 **- Emissões e qualidade ambiental:** Emissões de CO2 (em milhões de toneladas) e o percentual de áreas verdes;
 **- Qualidade de vida:** Índice de expectativa de vida.
 
-**Metodologia**
+# Metodologia
 
 Com esses dados serão realizados análises cruzando as informações obtidas e expressada por demonstrações gráficas identificando:
     **1.** O que mais influencia o AQI (poluição do ar)?
@@ -93,11 +93,11 @@ A pesquisa será conduzida com base em técnicas de ciência de dados, seguindo 
   6. Interpretação dos resultados
     - Análise da importância das variáveis para identificar os principais fatores que impactam a qualidade do ar.
 
-**Cronograma**
+# Cronograma
 
 
 
-**REFERÊNCIAS**
+# REFERÊNCIAS
 WORLD HEALTH ORGANIZATION. Air pollution and health. Geneva: WHO, 2021.
 WORLD BANK. Urban development overview. Washington, DC: World Bank, 2020.
 INTERGOVERNMENTAL PANEL ON CLIMATE CHANGE. Climate Change 2022: Impacts, Adaptation and Vulnerability. Cambridge: Cambridge University Press, 2022.
