@@ -77,7 +77,7 @@ Com esses dados serão realizados análises cruzando as informações obtidas e 
 A pesquisa será conduzida com base em técnicas de ciência de dados, seguindo as seguintes etapas:
  
   1. Coleta e preparação dos dados
-   - Utilização de um dataset contendo informações sobre qualidade do ar, desmatamento, emissões e fatores urbanos.
+    - Utilização de um dataset contendo informações sobre qualidade do ar, desmatamento, emissões e fatores urbanos.
 
   2. Limpeza e tratamento
     - Remoção de valores ausentes, padronização dos dados e seleção de variáveis relevantes.
