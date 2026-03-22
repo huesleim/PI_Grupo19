@@ -45,7 +45,7 @@ Compreender essas relações é fundamental para:
 - Promover desenvolvimento urbano sustentável.
 
 # Justificativa
-A utilização de técnicas de ciência de dados permite
+A utilização de técnicas de ciência de dados permite:
 - Identificar padrões ocultos nos dados;
 - Quantificar o impacto de cada variável;
 - Criar modelos preditivos;
