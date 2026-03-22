@@ -1,10 +1,11 @@
 # PI_Grupo19
 (2601-PROJETO INTEGRADOR: DESENVOLVIMENTO LOW CODE EM CIÊNCIA DE DADOS) - GRUPO 19, 2026.1
 
-# TEMA DO PROJETO**
+# TEMA DO PROJETO
 Quais fatores realmente influenciam a qualidade do ar? Uma análise integrada com ciência de dados.
 
 # INTEGRANTES: 
+
 Débora Aparecida Marques Ferreira
 Erick Cardozo Melo
 Hueslei de Miranda Moura
