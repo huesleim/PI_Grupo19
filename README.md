@@ -38,14 +38,14 @@ Analisar os principais fatores ambientais, urbanos e econômicos que influenciam
 - Identificar as variáveis mais relevantes na previsão da qualidade do ar
 
 # Motivação
-Compreender essas relações é fundamental para:
+Compreender essas relações é fundamental para
     - Apoiar políticas públicas mais eficientes;
     - Direcionar investimentos ambientais de forma estratégica;
     - Reduzir impactos à saúde da população;
     - Promover desenvolvimento urbano sustentável.
 
 # Justificativa
-A utilização de técnicas de ciência de dados permite:
+A utilização de técnicas de ciência de dados permite
     - Identificar padrões ocultos nos dados;
     - Quantificar o impacto de cada variável;
     - Criar modelos preditivos;
