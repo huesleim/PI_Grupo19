@@ -12,7 +12,7 @@ Hueslei de Miranda Moura
 Leonardo Borges Coleto Correia  
 
 
-# 2) Definição da base de dados:**
+# 2) Definição da base de dados:
 
 **INTRODUÇÃO**
     O crescimento urbano acelerado, aliado ao aumento da frota de veículos, expansão industrial e avanço do desmatamento, tem intensificado os problemas relacionados à qualidade do ar nas cidades. Esses fatores contribuem diretamente para o aumento da poluição atmosférica, impactando negativamente o meio ambiente e a saúde da população. Segundo a World Health Organization (2021), a poluição do ar é responsável por milhões de mortes prematuras anualmente, sendo considerada um dos maiores riscos ambientais à saúde humana.
