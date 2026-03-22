@@ -104,6 +104,9 @@ A pesquisa será conduzida com base em técnicas de ciência de dados, seguindo 
 
 # REFERÊNCIAS
 WORLD HEALTH ORGANIZATION. Air pollution and health. Geneva: WHO, 2021.
+
 WORLD BANK. Urban development overview. Washington, DC: World Bank, 2020.
+
 INTERGOVERNMENTAL PANEL ON CLIMATE CHANGE. Climate Change 2022: Impacts, Adaptation and Vulnerability. Cambridge: Cambridge University Press, 2022.
+
 EUROPEAN ENVIRONMENT AGENCY. Air quality in Europe – 2023 report. Copenhagen: EEA, 2023.
