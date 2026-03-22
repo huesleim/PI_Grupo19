@@ -100,6 +100,15 @@ A pesquisa será conduzida com base em técnicas de ciência de dados, seguindo 
 
 # Cronograma
 
+Atividades	Responsável	20/02/2026	27/02/2026	06/03/2026	13/03/2026	20/03/2026	23/03/2026
+1. Coleta e preparação de dados							
+2. Limpeza e tratamento							
+3. Análise exploratória (EDA)							
+4. Modelagem preditiva							
+5. Avaliação do modelo							
+6. Interpretação dos resultados							
+7. Entrega do planejamento							
+<img width="744" height="161" alt="image" src="https://github.com/user-attachments/assets/5248af19-691c-4aa7-9270-65147beb0c89" />
 
 
 # REFERÊNCIAS
