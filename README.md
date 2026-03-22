@@ -6,10 +6,10 @@ Quais fatores realmente influenciam a qualidade do ar? Uma análise integrada co
 
 # INTEGRANTES: 
 
-Débora Aparecida Marques Ferreira
-Erick Cardozo Melo
-Hueslei de Miranda Moura
-Leonardo Borges Coleto Correia
+Débora Aparecida Marques Ferreira  
+Erick Cardozo Melo  
+Hueslei de Miranda Moura  
+Leonardo Borges Coleto Correia  
 
 
 # 2) Definição da base de dados:**
