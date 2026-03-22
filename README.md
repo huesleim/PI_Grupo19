@@ -72,10 +72,10 @@ A base de dados envolvida possui informações do qual relaciona a qualidade do 
 # Metodologia
 
 Com esses dados serão realizados análises cruzando as informações obtidas e expressada por demonstrações gráficas identificando:
-    **1.** O que mais influencia o AQI (poluição do ar)?
-    **2.** Desmatamento impacta a qualidade do ar?
-    **3.** Cidades com mais áreas verdes têm melhor expectativa de vida?
-    **4.** O crescimento de veículos piora a poluição?
+    **1.** O que mais influencia o AQI (poluição do ar)?;
+    **2.** Desmatamento impacta a qualidade do ar?;
+    **3.** Cidades com mais áreas verdes têm melhor expectativa de vida?;
+    **4.** O crescimento de veículos piora a poluição?;
     **5.** Quais fatores mais contribuem para a piora da qualidade do ar (AQI)?
     
 A pesquisa será conduzida com base em técnicas de ciência de dados, seguindo as seguintes etapas:
