@@ -60,9 +60,13 @@ A base de dados envolvida possui informações do qual relaciona a qualidade do 
 - Materiais particulados mais grossos, neste caso, 10 micrômetros (MP10), são responsável por também doenças respiratórias e cardiovasculares, mas também agravam doenças crônicas, toxicidade por metais pesados (cancerígenos), dioxinas, furanos e benzopirenos (cancerígenos). O efeito ao meio ambiente acarreta em danos materiais (sujeira e corrosão a infraestruturas), alterações climáticas e redução da visibilidade.
 
 **- Meio ambiente (florestas):** taxa de desmatamento e de reflorestamento;
+
 **- Crescimento urbano e industrial:** o crescimento urbano relacionando o número de veículos e indústrias;
+
 **- Investimento e estrutura:** o orçamento ambiental (em dólar) e densidade populacional (pessoas/km^2);
+
 **- Emissões e qualidade ambiental:** Emissões de CO2 (em milhões de toneladas) e o percentual de áreas verdes;
+
 **- Qualidade de vida:** Índice de expectativa de vida.
 
 # Metodologia
