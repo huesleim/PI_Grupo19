@@ -100,16 +100,10 @@ A pesquisa será conduzida com base em técnicas de ciência de dados, seguindo 
 
 # Cronograma
 
-As atividadees serão realizadas nas datas determinadas da tabela 1:
-1. Coleta e preparação de dados	- Leonardo						
-2. Limpeza e tratamento dos dados - Débora						
-3. Análise exploratória (EDA) - Erick						
-4. Modelagem preditiva - Huéslei						
-5. Avaliação do modelo - Todos						
-6. Interpretação dos resultados - Todos						
-7. Entrega do planejamento - Leonardo						
+As atividadees serão realizadas pelos integrantes do grupo nas datas determinadas da tabela 1.					
 
-tabela 1: Cronograma de atividades.
+Tabela 1: Cronograma de atividades.
+
 <img width="777" height="161" alt="image" src="https://github.com/user-attachments/assets/c76d679a-4434-4b10-b4b6-4e9d8e914bb6" />
 
 Fonte: Autoria própria.
