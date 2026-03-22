@@ -111,6 +111,7 @@ As atividadees serão realizadas nas datas determinadas da tabela 1:
 
 tabela 1: Cronograma de atividades.
 <img width="777" height="161" alt="image" src="https://github.com/user-attachments/assets/c76d679a-4434-4b10-b4b6-4e9d8e914bb6" />
+
 Fonte: Autoria própria.
 
 
