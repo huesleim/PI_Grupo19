@@ -54,7 +54,7 @@ A utilização de técnicas de ciência de dados permite:
 
 **Informações sobre a Base de Dados**
 
-A base de dados envolvida possui informações do qual relaciona a qualidade do ar e o desmatamento de quatro cidades: Rio de Janeiro (Brasil), Shenzhen (China), Mumbai (India), Cologne (Alemanha) e Montreal (Canadá). Os dados trazem valores quantificados sobre:
+A base de dados envolvida possui informações do qual relaciona a qualidade do ar e o desmatamento de dez países e 50 cidades, sendo cinco cidades para cada país. Os dados trazem valores quantificados sobre:
 
 **- Qualidade do ar:** índice geral da qualidade do ar (AQI), e de dois tipos de materiais particulados (MP2.5 e MP10):
     **1.*** Os materiais particulados mais finos possuem diâmetro inferiores a 2,5 micrômetros (MP2.5), responsável principalemte por complicações à saúde humana como, doenças respiratórias graves, doenças cardiovasculares, dano pulmonar e sara e, mortalidade prematura. O efeito ao meio ambiente e clima envolve as mudanças climáticas e a visibilidade (névoa seca).
