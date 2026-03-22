@@ -56,8 +56,8 @@ A utilização de técnicas de ciência de dados permite
 A base de dados envolvida possui informações do qual relaciona a qualidade do ar e o desmatamento de dez países e 50 cidades, sendo cinco cidades para cada país. Os dados trazem valores quantificados sobre:
 
 **- Qualidade do ar:** índice geral da qualidade do ar (AQI), e de dois tipos de materiais particulados (MP2.5 e MP10):
-    **1.** Os materiais particulados mais finos possuem diâmetro inferiores a 2,5 micrômetros (MP2.5), responsável principalemte por complicações à saúde humana como, doenças respiratórias graves, doenças cardiovasculares, dano pulmonar e sara e, mortalidade prematura. O efeito ao meio ambiente e clima envolve as mudanças climáticas e a visibilidade (névoa seca).
-    **2.** Materiais particulados mais grossos, neste caso, 10 micrômetros (MP10), são responsável por também doenças respiratórias e cardiovasculares, mas também agravam doenças crônicas, toxicidade por metais pesados (cancerígenos), dioxinas, furanos e benzopirenos (cancerígenos). O efeito ao meio ambiente acarreta em danos materiais (sujeira e corrosão a infraestruturas), alterações climáticas e redução da visibilidade.
+**1.** Os materiais particulados mais finos possuem diâmetro inferiores a 2,5 micrômetros (MP2.5), responsável principalemte por complicações à saúde humana como, doenças respiratórias graves, doenças cardiovasculares, dano pulmonar e sara e, mortalidade prematura. O efeito ao meio ambiente e clima envolve as mudanças climáticas e a visibilidade (névoa seca).
+**2.** Materiais particulados mais grossos, neste caso, 10 micrômetros (MP10), são responsável por também doenças respiratórias e cardiovasculares, mas também agravam doenças crônicas, toxicidade por metais pesados (cancerígenos), dioxinas, furanos e benzopirenos (cancerígenos). O efeito ao meio ambiente acarreta em danos materiais (sujeira e corrosão a infraestruturas), alterações climáticas e redução da visibilidade.
 
 **- Meio ambiente (florestas):** taxa de desmatamento e de reflorestamento;
 **- Crescimento urbano e industrial:** o crescimento urbano relacionando o número de veículos e indústrias;
