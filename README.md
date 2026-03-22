@@ -4,11 +4,11 @@
 **TEMA DO PROJETO**
 Quais fatores realmente influenciam a qualidade do ar? Uma análise integrada com ciência de dados.
 
-# INTEGRANTE
-DEBORA APARECIDA MARQUES FERREIRA
-ERICK CARDOZO MELO
-HUESLEI DE MIRANDA MOURA
-LEONARDO BORGES COLETO CORREIA
+# INTEGRANTES: 
+Débora Aparecida Marques Ferreira
+Erick Cardozo Melo
+Hueslei de Miranda Moura
+Leonardo Borges Coleto Correia
 
 
 **2) Definição da base de dados:**
