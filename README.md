@@ -12,9 +12,7 @@ Huéslei de Miranda Moura
 Leonardo Borges Coleto Correia  
 
 
-# 2) Definição da base de dados:
-
-**Introdução**
+# Introdução
     O crescimento urbano acelerado, aliado ao aumento da frota de veículos, expansão industrial e avanço do desmatamento, tem intensificado os problemas relacionados à qualidade do ar nas cidades. Esses fatores contribuem diretamente para o aumento da poluição atmosférica, impactando negativamente o meio ambiente e a saúde da população. Segundo a World Health Organization (2021), a poluição do ar é responsável por milhões de mortes prematuras anualmente, sendo considerada um dos maiores riscos ambientais à saúde humana.
     Além disso, o crescimento urbano desordenado e a intensificação das atividades econômicas têm ampliado os níveis de emissão de poluentes, especialmente em países em desenvolvimento. De acordo com o World Bank (2020), o aumento da urbanização está diretamente associado à degradação ambiental e à piora da qualidade do ar, exigindo políticas públicas mais eficazes e sustentáveis.
 No contexto ambiental, o desmatamento também desempenha um papel relevante, uma vez que reduz a capacidade de absorção de dióxido de carbono (CO₂) e contribui para o agravamento das mudanças climáticas. Conforme destacado pelo Intergovernmental Panel on Climate Change (2022), a perda de cobertura florestal intensifica os impactos ambientais e compromete o equilíbrio climático global.
