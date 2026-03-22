@@ -75,6 +75,7 @@ Com esses dados serão realizados análises cruzando as informações obtidas e 
     **5.** Quais fatores mais contribuem para a piora da qualidade do ar (AQI)?
     
 A pesquisa será conduzida com base em técnicas de ciência de dados, seguindo as seguintes etapas:
+ 
   1. Coleta e preparação dos dados
    - Utilização de um dataset contendo informações sobre qualidade do ar, desmatamento, emissões e fatores urbanos.
 
