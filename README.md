@@ -21,7 +21,7 @@ No contexto ambiental, o desmatamento também desempenha um papel relevante, uma
 
 # O Problema
 O aumento acelerado da urbanização, aliado ao crescimento da frota de veículos, expansão industrial e avanço do desmatamento, tem gerado impactos significativos na qualidade do ar em diversas cidades ao redor do mundo.
-Apesar dos investimentos públicos em políticas ambientais, ainda há incerteza sobre quais fatores realmente exercem maior influência na degradação da qualidade do ar, dificultando a tomada de decisões eficazes por parte de gestores públicos. Nesse contexto, surge a seguinte questão: Quais são os principais fatores ambientais e urbanos que mais impactam a qualidade do ar (AQI) nas cidades, e como eles se relacionam entre si?
+    Apesar dos investimentos públicos em políticas ambientais, ainda há incerteza sobre quais fatores realmente exercem maior influência na degradação da qualidade do ar, dificultando a tomada de decisões eficazes por parte de gestores públicos. Nesse contexto, surge a seguinte questão: Quais são os principais fatores ambientais e urbanos que mais impactam a qualidade do ar (AQI) nas cidades, e como eles se relacionam entre si?
 
 # Objetivo Geral
 Analisar os principais fatores ambientais, urbanos e econômicos que influenciam a qualidade do ar (AQI), utilizando técnicas de ciência de dados.
