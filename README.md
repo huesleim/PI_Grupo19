@@ -4,7 +4,7 @@
 **TEMA DO PROJETO**
 Quais fatores realmente influenciam a qualidade do ar? Uma análise integrada com ciência de dados.
 
-**INTEGRANTES**
+# INTEGRANTE
 DEBORA APARECIDA MARQUES FERREIRA
 ERICK CARDOZO MELO
 HUESLEI DE MIRANDA MOURA
