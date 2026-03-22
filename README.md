@@ -12,20 +12,21 @@ Huéslei de Miranda Moura
 Leonardo Borges Coleto Correia  
 
 
-# Introdução
+#Introdução
     O crescimento urbano acelerado, aliado ao aumento da frota de veículos, expansão industrial e avanço do desmatamento, tem intensificado os problemas relacionados à qualidade do ar nas cidades. Esses fatores contribuem diretamente para o aumento da poluição atmosférica, impactando negativamente o meio ambiente e a saúde da população. Segundo a World Health Organization (2021), a poluição do ar é responsável por milhões de mortes prematuras anualmente, sendo considerada um dos maiores riscos ambientais à saúde humana.
     Além disso, o crescimento urbano desordenado e a intensificação das atividades econômicas têm ampliado os níveis de emissão de poluentes, especialmente em países em desenvolvimento. De acordo com o World Bank (2020), o aumento da urbanização está diretamente associado à degradação ambiental e à piora da qualidade do ar, exigindo políticas públicas mais eficazes e sustentáveis.
 No contexto ambiental, o desmatamento também desempenha um papel relevante, uma vez que reduz a capacidade de absorção de dióxido de carbono (CO₂) e contribui para o agravamento das mudanças climáticas. Conforme destacado pelo Intergovernmental Panel on Climate Change (2022), a perda de cobertura florestal intensifica os impactos ambientais e compromete o equilíbrio climático global.
     Dessa forma, a qualidade do ar, frequentemente medida pelo índice AQI (Air Quality Index), torna-se um importante indicador das condições ambientais urbanas. No entanto, a relação entre variáveis como emissões de CO₂, densidade populacional, áreas verdes e investimentos ambientais ainda não é completamente compreendida de forma integrada.
     Nesse sentido, a utilização de técnicas de ciência de dados surge como uma ferramenta essencial para analisar grandes volumes de dados, identificar padrões e compreender os fatores que mais influenciam a qualidade do ar. Segundo a European Environment Agency (2023), o uso de análise de dados tem se mostrado fundamental para o monitoramento ambiental e para o suporte à tomada de decisões em políticas públicas.
 
-**O Problema:** O aumento acelerado da urbanização, aliado ao crescimento da frota de veículos, expansão industrial e avanço do desmatamento, tem gerado impactos significativos na qualidade do ar em diversas cidades ao redor do mundo.
+# O Problema
+O aumento acelerado da urbanização, aliado ao crescimento da frota de veículos, expansão industrial e avanço do desmatamento, tem gerado impactos significativos na qualidade do ar em diversas cidades ao redor do mundo.
 Apesar dos investimentos públicos em políticas ambientais, ainda há incerteza sobre quais fatores realmente exercem maior influência na degradação da qualidade do ar, dificultando a tomada de decisões eficazes por parte de gestores públicos. Nesse contexto, surge a seguinte questão: Quais são os principais fatores ambientais e urbanos que mais impactam a qualidade do ar (AQI) nas cidades, e como eles se relacionam entre si?
 
-**Objetivo Geral**
+# Objetivo Geral
 Analisar os principais fatores ambientais, urbanos e econômicos que influenciam a qualidade do ar (AQI), utilizando técnicas de ciência de dados.
 
-**Objetivo Especifico**
+# Objetivo Especifico
 - Explorar e descrever os dados relacionados à qualidade do ar e variáveis ambientais
 - Identificar correlações entre as variáveis do dataset
 - Avaliar o impacto de fatores como:
