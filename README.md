@@ -109,7 +109,7 @@ Essas visualizações estão planejadas para serem desenvolvidas nas próximas e
 
 EUROPEAN ENVIRONMENT AGENCY. Air quality in Europe – 2023 report. Copenhagen: EEA, 2023.
 
-GLOBAL AIR QUALITY AND DEFORESTATION DATASET. In: KAGGLE. [S.l.]: Kaggle, 2026. Disponível em: https://www.kaggle.com/datasets/ashyou09/global-air-quality-and-deforestation-dataset. Acesso em: 23 mar. 2026.
+GLOBAL AIR QUALITY AND DEFORESTATION DATASET. In: KAGGLE. [S.l.]: Kaggle, 2026. Disponível em: https://www.kaggle.com/datasets/ashyou09/global-air-quality-and-deforestation-dataset. Acesso em: 15 fev. 2026.
 
 INTERGOVERNMENTAL PANEL ON CLIMATE CHANGE. Climate Change 2022: Impacts, Adaptation and Vulnerability. Cambridge: Cambridge University Press, 2022.
 
