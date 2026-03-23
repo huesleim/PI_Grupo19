@@ -85,31 +85,34 @@ Essas visualizações estão planejadas para serem desenvolvidas nas próximas e
 
 # Divisão das Tarefas
 - **Todos** → Pesquisa e escolha da base de dados. 
-- **Huéslei** → Criação do README inicial e adição dos colaboradores. Revisão do trabalho. 
-- **Leonardo** → Escrita da maior parte do texto no Word e apoio na migração para o README.  
-- **Débora** → Criação das pastas, upload do CSV, escrita e ajustes no README, planejamento do dashboard.  
-- **Erick** → Apoio na contextualização da base e revisão do texto.  
+- **Todos** → Criação do README inicial e adição dos colaboradores. Revisão do trabalho. 
+- **Todos** → Escrita do texto no Word e apoio na migração para o README.  
+- **Todos** → Criação das pastas, upload do CSV, escrita e ajustes no README, planejamento do dashboard.  
+- **Todos** → Apoio na contextualização da base e revisão do texto.  
 - **Todos** → Escolha conjunta da base de dados, discussão das métricas e revisão final.  
 
 # Cronograma
 | Data / Período        | Atividade                                                                 | Responsável |
 |-----------------------|---------------------------------------------------------------------------|-------------|
 | **12/02**             | Primeira web: professora apresentou o projeto                             | Todos       |
-| **13/02 – 26/02**     | Escrita inicial no Word e escolha conjunta da base de dados               | Leonardo, Todos |
-| **21/03**             | Criação do README e adição dos colaboradores                              | Huéslei |
-| **22/03**             | Criação das pastas e upload da base (CSV)                                 | Débora |
-| **03/03 – 21/03**     | Migração do conteúdo do Word para o README e ajustes                      | Débora e Leonardo|
+| **13/02 – 26/02**     | Escrita inicial no Word e escolha conjunta da base de dados               | Todos |
+| **21/03**             | Criação do README e adição dos colaboradores                              | Todos |
+| **22/03**             | Criação das pastas e upload da base (CSV)                                 | Todos |
+| **03/03 – 21/03**     | Migração do conteúdo do Word para o README e ajustes                      | Todos|
 | **13/03 – 23/03**     | Planejamento do dashboard, revisão final e entrega                        | Todos|                   
-| **22/03**             | Revisão do trabalho                                                       | Erick |
+| **22/03**             | Revisão do trabalho                                                       | Todos |
 | **22/03**             | Envio do link do trabalho                                                 | Huéslei|      
 
 
 
 # REFERÊNCIAS
-WORLD HEALTH ORGANIZATION. Air pollution and health. Geneva: WHO, 2021.
 
-WORLD BANK. Urban development overview. Washington, DC: World Bank, 2020.
+EUROPEAN ENVIRONMENT AGENCY. Air quality in Europe – 2023 report. Copenhagen: EEA, 2023.
+
+GLOBAL AIR QUALITY AND DEFORESTATION DATASET. In: KAGGLE. [S.l.]: Kaggle, 2026. Disponível em: https://www.kaggle.com/datasets/ashyou09/global-air-quality-and-deforestation-dataset. Acesso em: 23 mar. 2026.
 
 INTERGOVERNMENTAL PANEL ON CLIMATE CHANGE. Climate Change 2022: Impacts, Adaptation and Vulnerability. Cambridge: Cambridge University Press, 2022.
 
-EUROPEAN ENVIRONMENT AGENCY. Air quality in Europe – 2023 report. Copenhagen: EEA, 2023.
+WORLD HEALTH ORGANIZATION. Air pollution and health. Geneva: WHO, 2021.
+
+WORLD BANK. Urban development overview. Washington, DC: World Bank, 2020.
