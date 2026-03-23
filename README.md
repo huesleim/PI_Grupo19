@@ -96,8 +96,8 @@ Essas visualizações estão planejadas para serem desenvolvidas nas próximas e
 |-----------------------|---------------------------------------------------------------------------|-------------|
 | **12/02**             | Primeira web: professora apresentou o projeto                             | Todos       |
 | **13/02 – 26/02**     | Escrita inicial no Word e escolha conjunta da base de dados               | Leonardo, Todos |
+| **21/03**             | Criação do README e adição dos colaboradores                              | Huéslei |
 | **22/03**             | Criação das pastas e upload da base (CSV)                                 | Débora |
-| **01/03 – 02/03**     | Criação do README e adição dos colaboradores                              | Huéslei |
 | **03/03 – 21/03**     | Migração do conteúdo do Word para o README e ajustes                      | Débora e Leonardo|
 | **13/03 – 23/03**     | Planejamento do dashboard, revisão final e entrega                        | Todos|                   
 | **22/03**             | Revisão do trabalho                                                       | Erick |
