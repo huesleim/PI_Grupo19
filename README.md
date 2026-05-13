@@ -1,3 +1,4 @@
+### 1ª ETAPA
 # PI_Grupo19
 (2601-PROJETO INTEGRADOR: DESENVOLVIMENTO LOW CODE EM CIÊNCIA DE DADOS) - GRUPO 19, 2026.1
 
@@ -16,11 +17,7 @@ Analisar os principais fatores ambientais, urbanos e econômicos que influenciam
 # Objetivos Específicos
 - Explorar e descrever os dados relacionados à qualidade do ar e variáveis ambientais  
 - Identificar correlações entre as variáveis do dataset  
-- Avaliar o impacto de fatores como:  
-- Emissões de CO₂  
-- Crescimento de veículos  
-- Desmatamento  
-- Áreas verdes  
+- Avaliar o impacto de fatores como emissões de CO₂, crescimento de veículos, desmatamento e  presença de áreas verdes  
 - Construir um modelo preditivo para estimar o AQI  
 - Identificar as variáveis mais relevantes na previsão da qualidade do ar  
 
@@ -116,3 +113,37 @@ INTERGOVERNMENTAL PANEL ON CLIMATE CHANGE. Climate Change 2022: Impacts, Adaptat
 WORLD HEALTH ORGANIZATION. Air pollution and health. Geneva: WHO, 2021.
 
 WORLD BANK. Urban development overview. Washington, DC: World Bank, 2020.
+
+
+### 2ª ETAPA
+## 1.Coletando e preparando dados
+
+Em um arquivo utilitário scripts/kaggle_dataset.py, rodamos um código simples para carregar o .csv do banco de dados, e para imprimir df.info(). Assim, aferimos que há 15 colunas, com os nomes que usaremos para análise nos códigos posteriores. Também entendemos que há 35000 entradas não-nulas (que simplifica o trabalho de tratamento e normalização dos dados), e o tipo de cada dado.
+A saber, esse é o banco de dados com o qual trabalharemos:
+
+#
+ #   Column                       Non-Null Count  Dtype  
+---  ------                       --------------  -----  
+ 0   Country                      35000 non-null  str    
+ 1   City                         35000 non-null  str    
+ 2   Year                         35000 non-null  int64  
+ 3   AQI                          35000 non-null  float64
+ 4   PM2.5                        35000 non-null  float64
+ 5   PM10                         35000 non-null  float64
+ 6   Deforestation_Rate_%         35000 non-null  float64
+ 7   Afforestation_Rate_%         35000 non-null  float64
+ 8   Vehicles_Increase_%          35000 non-null  float64
+ 9   Industries_Increase_%        35000 non-null  float64
+ 10  Env_Budget_Million_USD       35000 non-null  float64
+ 11  Population_Density_Per_SqKm  35000 non-null  float64
+ 12  CO2_Emissions_MT             35000 non-null  float64
+ 13  Green_Space_Ratio_%          35000 non-null  float64
+ 14  Avg_Life_Expectancy_Index    35000 non-null  float64
+#
+
+## 2. Limpeza e tratamento:
+Em um arquivo etl.py, realizamos o tratamento das colunas do arquivo, transformando todas em caixa baixa, removendo duplicatas e removendo linhas com valores nulos (nesse caso não há nenhuma).
+
+
+
+
