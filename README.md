@@ -121,7 +121,6 @@ WORLD BANK. Urban development overview. Washington, DC: World Bank, 2020.
 Em um arquivo utilitário scripts/kaggle_dataset.py, rodamos um código simples para carregar o .csv do banco de dados, e para imprimir df.info(). Assim, aferimos que há 15 colunas, com os nomes que usaremos para análise nos códigos posteriores. Também entendemos que há 35000 entradas não-nulas (que simplifica o trabalho de tratamento e normalização dos dados), e o tipo de cada dado.
 A saber, esse é o banco de dados com o qual trabalharemos:
 
-#
  #   Column                       Non-Null Count  Dtype  
 ---  ------                       --------------  -----  
  0   Country                      35000 non-null  str    
