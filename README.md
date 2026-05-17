@@ -142,7 +142,7 @@ A saber, esse é o banco de dados com o qual trabalharemos:
 
 ## 2. Limpeza e tratamento:
 Em um arquivo etl.py, realizamos o tratamento das colunas do arquivo, transformando todas em caixa baixa, removendo duplicatas e removendo linhas com valores nulos (nesse caso não há nenhuma).
-
+Contribuição feita por Débora
 
 
 
