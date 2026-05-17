@@ -1,60 +1,62 @@
-import pandas as pd
 import streamlit as st
+import pandas as pd
+import matplotlib.pyplot as plt
 
-df = pd.read_csv("data/banco_limpo.csv")
+# Carregar dataset
+df = pd.read_csv("data/cleaned_dataset.csv")
 
-def classify_aqi(aqi):
+st.title("🌍 Dashboard - Qualidade do Ar e Meio Ambiente")
 
-    if aqi <= 50:
-        return "Good"
+# Filtros principais
+anos = sorted(df["year"].unique())
+cidades = sorted(df["city"].unique())
 
-    elif aqi <= 100:
-        return "Moderate"
+col1, col2 = st.columns(2)
+with col1:
+    ano_selecionado = st.selectbox("Selecione o ano:", anos)
+with col2:
+    cidade_selecionada = st.selectbox("Selecione a cidade:", cidades)
 
-    elif aqi <= 150:
-        return "Unhealthy for Sensitive Groups"
+df_filtrado = df[(df["year"] == ano_selecionado) & (df["city"] == cidade_selecionada)]
 
-    elif aqi <= 200:
-        return "Unhealthy"
+# Criar abas/páginas
+aba = st.tabs(["📊 Visão Geral", "🌱 Poluentes", "📈 Evolução"])
 
-    elif aqi <= 300:
-        return "Very Unhealthy"
+# Aba 1 - Visão Geral
+with aba[0]:
+    st.subheader("📊 Dados filtrados")
+    st.write(df_filtrado.head())
 
-    else:
-        return "Hazardous"
+    st.subheader("📈 Estatísticas descritivas")
+    st.write(df_filtrado.describe())
 
-df["AQI_Quality"] = df["aqi"].apply(classify_aqi)
+# Aba 2 - Poluentes
+with aba[1]:
+    col1, col2 = st.columns(2)
 
-years = sorted(df["year"].unique())
+    with col1:
+        st.subheader(f"Média do AQI por cidade - Ano {ano_selecionado}")
+        fig, ax = plt.subplots()
+        df[df["year"] == ano_selecionado].groupby("city")["aqi"].mean().plot(kind="bar", ax=ax, color="skyblue")
+        ax.set_ylabel("AQI médio")
+        st.pyplot(fig)
 
-selected_years = [
-    years[0],
-    years[len(years) // 2],
-    years[-1]
-]
+    with col2:
+        st.subheader(f"Relação entre PM2.5 e PM10 - {cidade_selecionada}, {ano_selecionado}")
+        fig, ax = plt.subplots()
+        df_filtrado.plot(kind="scatter", x="pm2.5", y="pm10", ax=ax, color="green")
+        st.pyplot(fig)
 
-st.title("Green Space vs AQI")
+    st.subheader(f"📉 Distribuição do AQI - {cidade_selecionada}, {ano_selecionado}")
+    fig, ax = plt.subplots()
+    df_filtrado["aqi"].plot(kind="hist", bins=20, ax=ax, color="orange", edgecolor="black")
+    ax.set_xlabel("AQI")
+    st.pyplot(fig)
 
-for year in selected_years:
-
-    st.subheader(f"Ano: {year}")
-
-    year_df = df[df["year"] == year]
-
-    year_df = (
-        year_df.groupby("country")
-        .agg({
-            "green_space_ratio_%": "mean",
-            "aqi": "mean"
-        })
-        .reset_index()
-    )
-
-    year_df["AQI_Quality"] = year_df["aqi"].apply(classify_aqi)
-
-    st.scatter_chart(
-        data=year_df,
-        x="green_space_ratio_%",
-        y="aqi",
-        color="AQI_Quality"
-    )
+# Aba 3 - Evolução
+with aba[2]:
+    st.subheader(f"📈 Evolução do AQI ao longo dos anos - {cidade_selecionada}")
+    fig, ax = plt.subplots()
+    df[df["city"] == cidade_selecionada].groupby("year")["aqi"].mean().plot(kind="line", marker="o", ax=ax, color="red")
+    ax.set_ylabel("AQI médio")
+    st.pyplot(fig)
