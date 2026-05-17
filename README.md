@@ -149,5 +149,11 @@ Contribuição feita por Débora
 O processo de ETL foi realizado com o objetivo de preparar a base de dados para análise. Inicialmente, os dados foram extraídos do dataset original *Global Air Quality and Deforestation Dataset*. Em seguida, na etapa de transformação, foram aplicadas técnicas de limpeza e padronização, incluindo a conversão dos nomes das colunas para letras minúsculas, remoção de duplicatas e eliminação de valores nulos. Além disso, foram criadas novas variáveis derivadas, como *vehicles_per_density* (relação entre aumento de veículos e densidade populacional) e *green_space_per_capita* (relação entre áreas verdes e densidade populacional), com o objetivo de enriquecer a análise. Por fim, os dados tratados foram carregados em um novo arquivo denominado *cleaned_dataset.csv*, que passou a ser utilizado nas etapas de análise exploratória e construção do dashboard.
 ``
 
+## Dashboard Online
+
+Este projeto conta com um dashboard interativo desenvolvido em Streamlit.
+
+Acesse o link abaixo:
+
 
 
