@@ -130,8 +130,7 @@ Na etapa de análise exploratória de dados (EDA), buscamos compreender que tipo
 ##4.Dashboard Online
 
 Este projeto conta com um dashboard interativo desenvolvido em Streamlit.
-
-Acesse o link abaixo: https://pigrupo19.streamlit.app
+Link: https://pigrupo19.streamlit.app
 
 
 
