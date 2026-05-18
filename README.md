@@ -127,7 +127,7 @@ Contribuição feita por Débora
 ## 3. Análise exploratória
 Na etapa de análise exploratória de dados (EDA), buscamos compreender que tipo de informações poderíamos utilizar e que correlações ou estudos poderiam ser feitos a partir delas. Assim, realizamos testes internos, estudando a integração da biblioteca pandas com o arquivo .csv. Por fim, ao termos decidido quais informações seriam pertinentes para um dashboard sobre o tema que havíamos definidos, por meio das bibliotecas matplotlib e streamlit para geração de gráficos e visualizações.
 
-##4.Dashboard Online
+## 4. Dashboard Online 
 
 Este projeto conta com um dashboard interativo desenvolvido em Streamlit.
 Link: https://pigrupo19.streamlit.app
