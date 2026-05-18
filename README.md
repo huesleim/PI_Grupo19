@@ -121,7 +121,7 @@ WORLD BANK. Urban development overview. Washington, DC: World Bank, 2020.
 Em um arquivo utilitário scripts/kaggle_dataset.py, rodamos um código simples para carregar o .csv do banco de dados, e para imprimir df.info(). Assim, aferimos que há 15 colunas, com os nomes que usaremos para análise nos códigos posteriores. Também entendemos que há 35000 entradas não-nulas (que simplifica o trabalho de tratamento e normalização dos dados), e o tipo de cada dado.
 A saber, esse é o banco de dados com o qual trabalharemos:
 
- #   Column                       Non-Null Count  Dtype  
+ .   Column                       Non-Null Count  Dtype  
 ---  ------                       --------------  -----  
  0   Country                      35000 non-null  str    
  1   City                         35000 non-null  str    
@@ -138,7 +138,7 @@ A saber, esse é o banco de dados com o qual trabalharemos:
  12  CO2_Emissions_MT             35000 non-null  float64
  13  Green_Space_Ratio_%          35000 non-null  float64
  14  Avg_Life_Expectancy_Index    35000 non-null  float64
-#
+
 
 ## 2. Limpeza e tratamento:
 Em um arquivo etl.py, realizamos o tratamento das colunas do arquivo, transformando todas em caixa baixa, removendo duplicatas e removendo linhas com valores nulos (nesse caso não há nenhuma).
@@ -153,7 +153,7 @@ O processo de ETL foi realizado com o objetivo de preparar a base de dados para 
 
 Este projeto conta com um dashboard interativo desenvolvido em Streamlit.
 
-Acesse o link abaixo:
+Acesse o link abaixo: https://pigrupo19.streamlit.app
 
 
 
