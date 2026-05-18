@@ -117,39 +117,17 @@ WORLD BANK. Urban development overview. Washington, DC: World Bank, 2020.
 
 ### 2ª ETAPA
 ## 1.Coletando e preparando dados
-
 Em um arquivo utilitário scripts/kaggle_dataset.py, rodamos um código simples para carregar o .csv do banco de dados, e para imprimir df.info(). Assim, aferimos que há 15 colunas, com os nomes que usaremos para análise nos códigos posteriores. Também entendemos que há 35000 entradas não-nulas (que simplifica o trabalho de tratamento e normalização dos dados), e o tipo de cada dado.
-A saber, esse é o banco de dados com o qual trabalharemos:
-
- .   Column                       Non-Null Count  Dtype  
----  ------                       --------------  -----  
- 0   Country                      35000 non-null  str    
- 1   City                         35000 non-null  str    
- 2   Year                         35000 non-null  int64  
- 3   AQI                          35000 non-null  float64
- 4   PM2.5                        35000 non-null  float64
- 5   PM10                         35000 non-null  float64
- 6   Deforestation_Rate_%         35000 non-null  float64
- 7   Afforestation_Rate_%         35000 non-null  float64
- 8   Vehicles_Increase_%          35000 non-null  float64
- 9   Industries_Increase_%        35000 non-null  float64
- 10  Env_Budget_Million_USD       35000 non-null  float64
- 11  Population_Density_Per_SqKm  35000 non-null  float64
- 12  CO2_Emissions_MT             35000 non-null  float64
- 13  Green_Space_Ratio_%          35000 non-null  float64
- 14  Avg_Life_Expectancy_Index    35000 non-null  float64
 
 
 ## 2. Limpeza e tratamento:
 Em um arquivo etl.py, realizamos o tratamento das colunas do arquivo, transformando todas em caixa baixa, removendo duplicatas e removendo linhas com valores nulos (nesse caso não há nenhuma).
 Contribuição feita por Débora
 
-## Processo de ETL (Extração, Transformação e Carga)
+## 3. Análise exploratória
+Na etapa de análise exploratória de dados (EDA), buscamos compreender que tipo de informações poderíamos utilizar e que correlações ou estudos poderiam ser feitos a partir delas. Assim, realizamos testes internos, estudando a integração da biblioteca pandas com o arquivo .csv. Por fim, ao termos decidido quais informações seriam pertinentes para um dashboard sobre o tema que havíamos definidos, por meio das bibliotecas matplotlib e streamlit para geração de gráficos e visualizações.
 
-O processo de ETL foi realizado com o objetivo de preparar a base de dados para análise. Inicialmente, os dados foram extraídos do dataset original *Global Air Quality and Deforestation Dataset*. Em seguida, na etapa de transformação, foram aplicadas técnicas de limpeza e padronização, incluindo a conversão dos nomes das colunas para letras minúsculas, remoção de duplicatas e eliminação de valores nulos. Além disso, foram criadas novas variáveis derivadas, como *vehicles_per_density* (relação entre aumento de veículos e densidade populacional) e *green_space_per_capita* (relação entre áreas verdes e densidade populacional), com o objetivo de enriquecer a análise. Por fim, os dados tratados foram carregados em um novo arquivo denominado *cleaned_dataset.csv*, que passou a ser utilizado nas etapas de análise exploratória e construção do dashboard.
-``
-
-## Dashboard Online
+##4.Dashboard Online
 
 Este projeto conta com um dashboard interativo desenvolvido em Streamlit.
 
